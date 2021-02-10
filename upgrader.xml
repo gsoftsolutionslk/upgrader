@@ -11,10 +11,11 @@
     </item>
     <!-- A release testing minimumSystemVersion -->
     <item>
-        <title>Version 1.2</title>
+        <title>Version 1.0.0</title>
         <pubDate>Sat, 10 Feb 2021 15:20:13 +0000</pubDate>
-        <enclosure url="https://gigara.info/ios" sparkle:version="1.2" sparkle:os="iOS" />
-        <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
+        <enclosure url="https://gigara.info/ios" sparkle:version="1.0.0" sparkle:os="iOS" />
+        <sparkle:minimumSystemVersion>0.5.0</sparkle:minimumSystemVersion>
+        <sparkle:maximumSystemVersion>0.5.0</sparkle:maximumSystemVersion>
     </item>
     <!-- A joke release testing maximumSystemVersion -->
 <!--     <item>
