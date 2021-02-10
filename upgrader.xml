@@ -3,11 +3,11 @@
   <channel>
     <title>Study Master</title>
     <item>
-        <title>Version 1.1.0</title>
+        <title>Version 1.0.0</title>
         <pubDate>Sat, 10 Feb 2021 15:20:13 +0000</pubDate>
-        <enclosure url="https://gigara.info" sparkle:version="1.1.0" sparkle:os="android" />
-        <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
-        <sparkle:maximumSystemVersion>1.0.0</sparkle:maximumSystemVersion>
+        <enclosure url="https://gigara.info" sparkle:version="1.0.0" sparkle:os="android" />
+        <sparkle:minimumSystemVersion>0.5.0</sparkle:minimumSystemVersion>
+        <sparkle:maximumSystemVersion>0.5.0</sparkle:maximumSystemVersion>
     </item>
     <!-- A release testing minimumSystemVersion -->
     <item>
